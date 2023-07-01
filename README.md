@@ -1,16 +1,16 @@
-### 👋 Olá, eu sou o Árthur Finardi. 🚀
+### 👋 Hello! I'm Árthur Finardi. 🚀
 
-Atualmente, trabalho como desenvolvedor de sistemas através da BRQ - Digital Solutions. 
-Sigo em estudo constante de forma à buscar as melhores práticas de desenvolvimento de sistemas, para criação de WebAPI's, arquitetura de aplicação CleanCode, integração Back-end e Banco de dados, para fornecer melhor experiência no entendimento e na manutenção do projeto e na utilização da aplicação web para o usuário. 
+Currently, I work as a systems developer through BRQ - Digital Solutions. I am constantly studying in order to seek the best practices of system development, for the creation of web APIs, CleanCode application architecture, and Back-end, and Database integration, to provide a better experience in the understanding and maintenance of the project and the use of the web application for the user.
 
-### 📌 Formação 🎓
-- Bacharelado em Sistemas de Informação, Faculdade Impacta de Tecnologia (2016 - 2019)
+### 📌 Education 🎓
+- Bachelor of Science in Information Systems, Impacta College of Technology (2016 - 2019)
 
-### 🛠️ Conhecimentos ⚙️
+### 🛠️ Knowledge ⚙️
 - Back-End: .NET C#;
-- Bancos de Dados: MySQL e SQL Server;
-- Front-End: Javascript, HTML5, CSS3, Bootstrap e Angular;
+- Front-End: Javascript, HTML5, CSS3, Bootstrap and Angular;
+- Databases: MySQL, SQL Server, PostgreSQL, Amazon Athena, Amazon Aurora;
+- Cloud: AWS.
 
-### 🖇️ Contatos 📧
+### 🖇️ Contact 📧
 - E-mail: arthurfinardi@gmail.com
 - Linkedin: https://www.linkedin.com/in/%C3%A1rthur-finardi-931847111/
