@@ -7,10 +7,10 @@ Currently, I work as a systems developer through BRQ - Digital Solutions. I am c
 
 ### 🛠️ Knowledge ⚙️
 - Back-End: .NET C#;
-- Front-End: Javascript, HTML5, CSS3, Bootstrap and Angular;
+- Front-End: Javascript/Typescript, HTML5, CSS3, Bootstrap and Angular;
 - Databases: MySQL, SQL Server, PostgreSQL, Amazon Athena, Amazon Aurora;
 - Cloud: AWS.
 
 ### 🖇️ Contact 📧
 - E-mail: arthurfinardi@gmail.com
-- Linkedin: https://www.linkedin.com/in/%C3%A1rthur-finardi-931847111/
+- Linkedin: https://www.linkedin.com/in/arthur-finardi-931847111/
