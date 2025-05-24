@@ -1,6 +1,6 @@
 ### 👋 Hello! I'm Árthur Finardi. 🚀
 
-Currently, I work as a systems developer through BRQ - Digital Solutions. I am constantly studying in order to seek the best practices of system development, for the creation of web APIs, CleanCode application architecture, and Back-end, and Database integration, to provide a better experience in the understanding and maintenance of the project and the use of the web application for the user.
+Currently, I work as a systems developer through Meu Cash Card. I am constantly studying in order to seek the best practices of system development, for the creation of web APIs, CleanCode application architecture, and Back-end, and Database integration, to provide a better experience in the understanding and maintenance of the project and the use of the web application for the user.
 
 ### 📌 Education 🎓
 - Bachelor of Science in Information Systems, Impacta College of Technology (2016 - 2019)
