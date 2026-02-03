@@ -6,7 +6,7 @@ I'm a passionate Software Engineer at Meu Cash Card, specializing in building sc
 - Bachelor of Science in Information Systems, Impacta College of Technology (2016 - 2019)
 
 ### 🛠️ Technical Skills ⚙️
-- Backend: .NET (C#), Python, RESTful APIs, CQRS, Event-Driven Architecture, Microservices
+- Backend: .NET (C#), NodeJS, RESTful APIs, CQRS, Event-Driven Architecture, Microservices
 - Frontend: JavaScript/TypeScript, HTML5, CSS3, Angular, React, Next.js
 - Databases: SQL Server, PostgreSQL, MySQL, Oracle
 - Cloud & Serverless: AWS (Lambda, S3, SQS, SNS, Step Functions, EventBridge, CloudWatch, Athena, OpenSearch), Azure
@@ -22,4 +22,4 @@ I'm a passionate Software Engineer at Meu Cash Card, specializing in building sc
 
 ### 📫 Let's Connect
 - 📧 Email: arthurfinardi@gmail.com
-- 💼 LinkedIn: linkedin.com/in/arthur-finardi-931847111
+- 💼 LinkedIn: linkedin.com/in/arthurfinardi
